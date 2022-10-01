@@ -34,7 +34,44 @@
 
 
 
+<!-- Footer section starts -->
+<section class="footer">
+  <div class="box-container">
+    <div class="box">
+      <h3>Quick Links</h3>
+    <a href="myindex.php"><i class="fas fa-angle-right"></i> home</a>
+        <a href="about.php"><i class="fas fa-angle-right"></i> about</a>
+        <a href="package.php"><i class="fas fa-angle-right"></i> publications</a>
+        <a href="book.php"><i class="fas fa-angle-right"></i> book</a>
+    </div>
 
+    <div class="box">
+      <h3>Extra Links</h3>
+    <a href="#"><i class="fas fa-angle-right"></i> Ask Questions</a>
+    <a href="#"><i class="fas fa-angle-right"></i> About Us</a>
+    <a href="#"><i class="fas fa-angle-right"></i> Privacy Policy</a>
+    <a href="#"><i class="fas fa-angle-right"></i> Terms of use</a>
+    </div>
+
+    <div class="box">
+      <h3>Extra Links</h3>
+    <a href="#"><i class="fas fa-phone"></i> +250787746988</a>
+    <a href="#"><i class="fab fa-twitter"></i> @PNezerwa</a>
+    <a href="#"><i class="fas fa-envelope"></i> pacineee@gmail.com</a>
+    <a href="#"><i class="fas fa-map"></i> Kicukiro-Kigali-Rwanda</a>
+    </div>
+
+    <div class="box">
+      <h3>Follow Me</h3>
+    <a href="#"><i class="fab fa-instagram"></i> Instagram</a>
+    <a href="#"><i class="fab fa-facebook"></i> Facebook</a>
+    <a href="#"><i class="fab fa-twitter"></i> Twitter</a>
+    <a href="#"><i class="fab fa-linkedin"></i> LinkedIn</a>
+    <div class="box">
+
+  </div>
+</section>
+<!-- Footer section ends -->
 
     <!--Swipper js file link-->
     <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>

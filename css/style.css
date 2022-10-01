@@ -72,7 +72,63 @@ section{
     display: none;
 }
 
+/*Below is the footer section stylying*/
+.footer{
+    background: url(../images/Web-Background.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.footer .box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+    gap: 3rem;
+}
+.footer .box-container .box h3{
+    color: var(--white);
+    font-size: 2.5rem;
+    padding-bottom: 2rem;
+}
+.footer .box-container .box a{
+    color: var(--light-white);
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+    display: block;
+}
+.footer .box-container .box a i{
+    color: var(--main-color);
+    padding-right: .5rem;
+    transition: .2s linear;
+}
+
+.footer .box-container .box a:hover i{
+    padding-right: 1.5rem; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* media queries */
+
 @media (max-width: 1200px){
     section{
         padding: 3rem;
@@ -96,9 +152,10 @@ section{
         background-color: var(--white);
         border-top: var(--border);
         padding: 2rem;
+        transition: .2s linear;
         clip-path: polygon(0 0,100% 0,100% 0,0 0);
     }
-    .header .navbar .active{
+    .header .navbar.active{
         clip-path: polygon(0 0,100% 0,100% 100%,0 100%);
     }
 
@@ -108,16 +165,6 @@ section{
         text-align: center;
     }
     }
-
-@media (max-width: 991px){
-html{
-    font-size: 55%;
-}
-
-    section{
-        padding: 3rem 2rem;
-    }
-}
 
 @media (max-width: 450px){
     html{

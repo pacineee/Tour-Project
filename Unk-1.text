@@ -1,0 +1,13 @@
+#CSS LINE 112
+@media (max-width: 991px){
+    html{
+        font-size: 55%;
+    }
+    
+        section{
+            padding: 3rem 2rem;
+        }
+    }
+
+
+    
