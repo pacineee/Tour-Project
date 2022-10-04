@@ -38,7 +38,11 @@ html::-webkit-scrollbar-thumb{
 section{
     padding: 5rem 10% ;
 }
-
+.heading-title{
+    text-align: center;
+    margin-bottom: 3rem;
+    font-size: 6rem;
+}
 
 .header{
     position: sticky;
@@ -71,6 +75,33 @@ section{
     color: var(--black);
     display: none;
 }
+
+
+.services .box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    gap: 1.5rem;
+}
+.services .box-container .box{
+    padding: 3rem 2rem;
+    text-align: center;
+    background: yellow;
+    cursor: pointer;
+}
+.services .box-container .box:hover{
+    background: var(--black);
+}
+.services .box-container .box img{
+    height: 7rem;
+}
+.services .box-container .box h3{
+    color: rgb(65, 140, 227);
+font-size: 1.7rem;
+padding-top: 1rem;
+}
+
+
+
 
 /*Below is the footer section stylying*/
 .footer{
@@ -105,7 +136,14 @@ section{
     padding-right: 1.5rem; 
 }
 
-
+.footer .credit{
+text-align: center;
+padding-top: 3rem;
+margin-top: 3rem;
+border-top: .1rem solid var(--light-white);
+font-size: 2rem;
+color: var(--white);
+}
 
 
 

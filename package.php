@@ -30,47 +30,9 @@
 
     <!--header section ends-->
 
-
-
-<!-- service section starts -->
-<section class="services">
-  <h1 class="heading-title">Our services</h1>
-<div class="box-container">
-
-  <div class="box">
-    <img src="images/live_fire.png" alt="Oops...smashed">
-    <h3>Advanture</h3>
-  </div>
-  <div class="box">
-    <img src="images/icons8-camp-64.png" alt="Oops...smashed">
-    <h3>Tour guide</h3>
-  </div>
-  <div class="box">
-    <img src="" alt="Oops...smashed">
-    <h3>Trekking</h3>
-  </div>
-  <div class="box">
-    <img src="" alt="Oops...smashed">
-    <h3>Tour guide</h3>
-  </div>
-  <div class="box">
-    <img src="" alt="Oops...smashed">
-    <h3>Camp fire</h3>
-  </div>
-  <div class="box">
-    <img src="" alt="Oops...smashed">
-    <h3>Advanture</h3>
-  </div>
-  <div class="box">
-    <img src="images/icons8-camp-64.png" alt="Oops...smashed">
-    <h3>Camping</h3>
-  </div>
+    <div class="heading" style="background:url(images/wp4088639_1900-1200.jpg) no-repeat">
+  <h1>publications</h1>
 </div>
-
-</section>
-<!-- service section ends -->
-
-
 
 
 <!-- Footer section starts -->
@@ -114,7 +76,6 @@
 
 </section>
 <!-- Footer section ends -->
-
 
     <!--Swipper js file link-->
     <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>

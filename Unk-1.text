@@ -8,6 +8,9 @@
             padding: 3rem 2rem;
         }
     }
-
+#Under header
+<div class="heading" style="background:url(../images/road-1072823__340.jpg)no-repeat">
+  <h1>about us</h1>
+</div>
 
     
