@@ -20,7 +20,7 @@
       <nav class="navbar">
         <a href="myindex.php">home</a>
         <a href="about.php">about</a>
-        <a href="package.php">package</a>
+        <a href="package.php">publications</a>
         <a href="book.php">book</a>
       </nav>
 
@@ -28,7 +28,45 @@
 
       </section>
 
-    <!--header section ends-->
+    <!--header section ends here-->
+
+
+<!-- Home section starts here -->
+<section class="home">
+  <div class="swiper home-slider">
+    <div class="swiper-wrapper">
+
+      <div class="swiper-slide slide" style="background:url(images/green-fields-with-wild-trees-2210x1473.jpg) no-repeat">
+        <div class="content">
+          <span>Explore, discover, travel</span>
+          <h3>Travel around Rwanda</h3>
+          <a href="package.php" class="btn">Discover more </a>
+        </div>
+      </div>
+
+        <div class="swiper-slide slide" style="background:url(images/forestly_3200-1800.jpg) no-repeat">
+        <div class="content">
+          <span>Explore, discover, travel</span>
+          <h3>Dicover new Amazing Rwandan Places</h3>
+          <a href="package.php" class="btn">Discover more </a>
+        </div>
+        </div>
+
+        <div class="swiper-slide slide" style="background:url(images/wp4088639_1900-1200.jpg) no-repeat">
+        <div class="content">
+          <span>Explore, discover, travel</span>
+          <h3>Make your Life count</h3>
+          <a href="package.php" class="btn">Discover more </a>
+        </div>
+        </div>
+    </div>
+
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+
+  </div>
+</section>
+<!-- Home section ends here -->
 
 
 
