@@ -83,6 +83,29 @@
   <!-- Home section ends here -->
 
 
+  <!-- Home About section starts here -->
+  <section class="home-about">
+    <div class="image">
+      <img src="images/1664618770628.png" alt="Ooops...smashed">
+    </div>
+    <div class="content">
+      <h3>About Us</h3>
+      <p>
+        Using media queries are a popular technique for delivering a tailored style sheet
+        (responsive web design) to desktops, laptops, tablets, and mobile phones.<br>
+        You can also use media queries to specify that certain styles are only for printed documents or
+        for screen readers (mediatype: print, screen, or speech).<br>
+        In addition to media types, there are also media features. Media features provide more specific details to media queries,
+        by allowing to test for a specific feature of the user agent or display device.<br>
+        For example, you can apply styles to only those screens that are greater, or smaller, than a certain width.
+      </p>
+      <a href="about.php" class="btn">Read More</a>
+    </div>
+  </section>
+
+  <!-- Home About section ends here -->
+
+
 
   <!-- service section starts -->
   <section class="services">
@@ -172,7 +195,7 @@
   <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
 
 
-<!-- Swiper JS 
+  <!-- Swiper JS 
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
 
 
