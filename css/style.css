@@ -212,6 +212,7 @@ section {
     line-height: 2;
 }
 
+/*Home packages styling*/
 .home-packages{
     background: var(--light-bg);
 }
@@ -223,7 +224,7 @@ section {
 .home-packages .box-container .box{
     border: var(--border);
     box-shadow: var(--box-shadow);
-    background: var(--white);
+    background: var(--light-white);
 }
 .home-packages .box-container .box .image{
     height: 28rem;
@@ -237,12 +238,27 @@ section {
 }
 .home-packages .box-container .box .content{
     padding: 2rem;
+    text-align: center;
+}
+.home-packages .box-container .box .content h3{
+    font-size: 2.5rem;
+    color: var(--black);
+}
+.home-packages .box-container .box .content p{
+    font-size: 2.5rem;
+    color: var(--ligh-black);
+    line-height: 2;
+    padding: 1rem 0;
+}
+.home-packages .load-more{
+    text-align: center;
+    margin-top: 2rem;
 }
 
 
 
 
-
+/*Services section*/
 .services .box-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));

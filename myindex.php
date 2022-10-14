@@ -109,10 +109,10 @@
   <!-- Home Package section starts here -->
 
   <section class="home-packages">
-    <h1 class="heading">Our packages</h1>
+    <h1 class="heading-title">Our packages</h1>
     <div class="box-container">
 
-    <div class="box">
+      <div class="box">
         <div class="image">
           <img src="images/coast-280x280.jpg" alt="Ooops...smashed">
         </div>
