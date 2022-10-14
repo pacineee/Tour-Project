@@ -212,6 +212,32 @@ section {
     line-height: 2;
 }
 
+.home-packages{
+    background: var(--light-bg);
+}
+.home-packages .box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    gap: 2rem;
+}
+.home-packages .box-container .box{
+    border: var(--border);
+    box-shadow: var(--box-shadow);
+    background: var(--white);
+}
+.home-packages .box-container .box .image{
+    height: 28rem;
+    overflow: hidden;
+}
+.home-packages .box-container .box .image img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transition: .2s linear;
+}
+.home-packages .box-container .box .content{
+    padding: 2rem;
+}
 
 
 

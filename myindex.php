@@ -106,6 +106,54 @@
   <!-- Home About section ends here -->
 
 
+  <!-- Home Package section starts here -->
+
+  <section class="home-packages">
+    <h1 class="heading">Our packages</h1>
+    <div class="box-container">
+
+    <div class="box">
+        <div class="image">
+          <img src="images/coast-280x280.jpg" alt="Ooops...smashed">
+        </div>
+        <div class="content">
+          <h3>Adventure & Tour</h3>
+          <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
+          <a href="book.php" class="btn">Book now</a>
+        </div>
+      </div>
+
+      <div class="box">
+        <div class="image">
+          <img src="images/coast-280x280.jpg" alt="Ooops...smashed">
+        </div>
+        <div class="content">
+          <h3>Adventure & Tour</h3>
+          <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
+          <a href="book.php" class="btn">Book now</a>
+        </div>
+      </div>
+
+      <div class="box">
+        <div class="image">
+          <img src="images/coast-280x280.jpg" alt="Ooops...smashed">
+        </div>
+        <div class="content">
+          <h3>Adventure & Tour</h3>
+          <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
+          <a href="book.php" class="btn">Book now</a>
+        </div>
+      </div>
+
+    </div>
+    <div class="load-more"><a href="package.php" class="btn">Learn more</a></div>
+
+
+  </section>
+
+  <!-- Home Package section ends here -->
+
+
 
   <!-- service section starts -->
   <section class="services">
