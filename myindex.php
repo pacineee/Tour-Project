@@ -150,8 +150,21 @@
 
 
   </section>
-
   <!-- Home Package section ends here -->
+
+
+
+<!-- Home Offer section ends here -->
+<section class="home-offer">
+<div class="content">
+  <h3>Upto 20% Off</h3>
+  <p>Mission statement: 
+Being an environment to produce experienced community winners and a hub of various solutions. 
+</p>
+<a href="book.php" class="btn">Book now</a>
+</div>
+</section>
+<!-- Home Offer section ends here -->
 
 
 
