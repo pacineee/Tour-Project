@@ -367,8 +367,154 @@ section {
     display: block;
 }
 
+/*Square view starts here*/
+.reviews{
+    background: var(--light-bg);
+}
+.reviews .slide{
+    padding: 2rem;
+    border: var(--border);
+    background: var(--white);
+    text-align: center;
+    box-shadow: var(--box-shadow);
+}
+.reviews .slide .stars{
+    padding-bottom: 0.5rem;
+}
+.reviews .slide .stars i{
+    font-size: 1.5rem;
+    color: var(--main-color);
+}
+.reviews .slide p{
+    font-size: 1.5rem;
+    color: var(--light-black);
+    line-height: 2;
+    padding: 1rem 0;
+    user-select: none;
+}
+.reviews .slide h3{
+    font-size: 2rem;
+    color: var(--black);
+}
+.reviews .slide span{
+    font-size: 1.5rem;
+    color: var(--main-color);
+    display: block;
+}
+.reviews .slide img{
+    height: 7rem;
+    width: 7rem;
+    border-radius: 50%;
+    margin-top: 1rem;
+}
+/*Square view ends here*/
 
 
+
+
+
+/*Below Load More issue not solved*/
+.packages .box-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    gap: 2rem;
+}
+
+.packages .box-container .box {
+    border: var(--border);
+    box-shadow: var(--box-shadow);
+    background: var(--light-white);
+    display: none;
+}
+
+.packages .box-container .box:nth-child(1),
+.packages .box-container .box:nth-child(2),
+.packages .box-container .box:nth-child(3),
+.packages .box-container .box:nth-child(4),
+.packages .box-container .box:nth-child(5),
+.packages .box-container .box:nth-child(6){
+    display: inline-block;
+}
+
+
+.packages .box-container .box:hover .image img {
+    transform: scale(1.1);
+}
+
+.packages .box-container .box .image {
+    height: 25rem;
+    overflow: hidden;
+}
+
+.packages .box-container .box .image img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transition: .2s linear;
+}
+
+.packages .box-container .box .content {
+    padding: 2rem;
+    text-align: center;
+}
+
+.packages .box-container .box .content h3 {
+    font-size: 2.5rem;
+    color: var(--black);
+}
+
+.packages .box-container .box .content p {
+    font-size: 1.5rem;
+    color: var(--ligh-black);
+    line-height: 2;
+    padding: 1rem 0;
+}
+
+.packages .load-more {
+    text-align: center;
+    margin-top: 2rem;
+}
+/*Above Load More issue not solved*/
+
+
+
+
+/*Below is Booking form*/
+.booking .booking-form{
+    padding: 2rem;
+    background: var(--light-bg);
+}
+.booking .booking-form .flex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+.booking .booking-form .flex .input-box{
+    flex: 1 1 41rem;
+}
+.booking .booking-form .flex .input-box input{
+    width: 100%;
+    padding-top: 1.2rem;
+    padding-left: .5rem;
+    font-size: 1.6rem;
+    color: var(--light-black);
+    text-transform: none;
+    margin-top: 1.5rem;
+    border: var(--border);
+    box-shadow: var(--box-shadow);
+}
+.booking .booking-form .flex .input-box input:focus{
+    background: var(--black);
+    color: var(--white);
+}
+.booking .booking-form .flex .input-box span{
+    font-size: 1.7rem;
+    color: var(--light-black);
+}
+.booking .booking-form .btn{
+    margin-top: 2rem;
+}
+/*Above is Booking form*/
 
 
 

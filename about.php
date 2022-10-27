@@ -74,6 +74,96 @@
   <!-- About section ends here -->
 
 
+<!-- Down is Reviews section -->
+  <section class="reviews">
+    <div class="swiper reviews-slider">
+      <div class="swiper-wrapper">
+        <div class="swiper-slider slide">
+          <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+          </div>
+          <p>The Government of Rwanda led by the Ministry of ICT and Innovation and Rwanda Development Board are bringing Hanga Pitchfest 2022.
+            Hanga Pitchfest aims to provide a unique platform to showcase tech-entrepreneurs and creative talents from all over the country and
+            promote the use of technology and innovation in the Rwandan market.
+            Above all, the event will strive to match startups to potential opportunities and investors.</p>
+          <h3>Nezerwa P</h3>
+          <span>Founder</span>
+          <img src="images/KeyVisual_GFA-Workshop_Trustful280x280.jpg" alt="Ooops..Smashed!">
+        </div>
+
+        <div class="swiper-slider slide">
+          <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+          </div>
+          <p>The Government of Rwanda led by the Ministry of ICT and Innovation and Rwanda Development Board are bringing Hanga Pitchfest 2022.
+            Hanga Pitchfest aims to provide a unique platform to showcase tech-entrepreneurs and creative talents from all over the country and
+            promote the use of technology and innovation in the Rwandan market.
+            Above all, the event will strive to match startups to potential opportunities and investors.</p>
+          <h3>Nezerwa P</h3>
+          <span>Founder</span>
+          <img src="images/KeyVisual_GFA-Workshop_Trustful280x280.jpg" alt="Ooops..Smashed!">
+        </div>
+
+        <div class="swiper-slider slide">
+          <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+          </div>
+          <p>The Government of Rwanda led by the Ministry of ICT and Innovation and Rwanda Development Board are bringing Hanga Pitchfest 2022.
+            Hanga Pitchfest aims to provide a unique platform to showcase tech-entrepreneurs and creative talents from all over the country and
+            promote the use of technology and innovation in the Rwandan market.</p>
+          <h3>Nezerwa P</h3>
+          <span>Founder</span>
+          <img src="images/KeyVisual_GFA-Workshop_Trustful280x280.jpg" alt="Ooops..Smashed!">
+        </div>
+
+        <div class="swiper-slider slide">
+          <div class="stars">
+            <i class="fas fa-star"></i>
+          </div>
+          <p>Bringing Hanga Pitchfest 2023.</p>
+          <h3>Nezerwa P</h3>
+          <span>Founder</span>
+          <img src="images/KeyVisual_GFA-Workshop_Trustful280x280.jpg" alt="Ooops..Smashed!">
+        </div>
+
+        <div class="swiper-slider slide">
+          <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+          </div>
+          <p>The Government of Rwanda led by the Ministry of ICT and Innovation and Rwanda Development Board are bringing Hanga Pitchfest 2022.
+          </p>
+          <h3>Nezerwa P</h3>
+          <span>Founder</span>
+          <img src="images/KeyVisual_GFA-Workshop_Trustful280x280.jpg" alt="Ooops..Smashed!">
+        </div>
+
+        <div class="swiper-slider slide">
+          <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+          </div>
+          <p>The Government of Rwanda led by the Ministry of ICT and Innovation and Rwanda Development Board are bringing Hanga Pitchfest 2022.
+          </p>
+          <h3>Nezerwa P</h3>
+          <span>Founder</span>
+          <img src="images/KeyVisual_GFA-Workshop_Trustful280x280.jpg" alt="Ooops..Smashed!">
+        </div>
+
+      </div>
+    </div>
+  </section>
+  <!-- Reviews section ends here -->
+
 
 
   <!-- Footer section starts -->
@@ -122,7 +212,8 @@
   <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
 
   <!--Custom JS file link-->
-  <script src="script.js"></script>
+  <script src="js/script.js"></script>
+
 </body>
 
 </html>
