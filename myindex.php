@@ -154,17 +154,17 @@
 
 
 
-<!-- Home Offer section ends here -->
-<section class="home-offer">
-<div class="content">
-  <h3>Upto 20% Off</h3>
-  <p>Mission statement: 
-Being an environment to produce experienced community winners and a hub of various solutions. 
-</p>
-<a href="book.php" class="btn">Book now</a>
-</div>
-</section>
-<!-- Home Offer section ends here -->
+  <!-- Home Offer section ends here -->
+  <section class="home-offer">
+    <div class="content">
+      <h3>Upto 20% Off</h3>
+      <p>Mission statement:
+        Being an environment to produce experienced community winners and a hub of various solutions.
+      </p>
+      <a href="book.php" class="btn">Book now</a>
+    </div>
+  </section>
+  <!-- Home Offer section ends here -->
 
 
 
@@ -258,9 +258,10 @@ Being an environment to produce experienced community winners and a hub of vario
 
   <!-- Swiper JS 
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+-->
 
 
-  <!--Custom JS file link-->
+  <!-- Custom JS file link -->
   <script src="js/script.js"></script>
 </body>
 
