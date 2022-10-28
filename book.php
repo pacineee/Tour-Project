@@ -41,7 +41,7 @@
   <!-- Booking section starts here-->
   <section class="booking">
     <h1 class="heading-title">Get your Ticket</h1>
-    <form action="book_form.php" method="POST" class="booking-form">
+    <form action="booking-form.php" method="post" class="booking-form">
       <div class="flex">
 
         <div class="input-box">
@@ -78,7 +78,7 @@
         </div>
 
       </div>
-      <input type="submit" value="submit" class="btn" name="submit">
+      <input type="submit" value="submit" class="btn" name="send">
     </form>
   </section>
   <!-- Booking section ends here-->
