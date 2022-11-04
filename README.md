@@ -5,7 +5,7 @@
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
+Below sections headers will be used for quick navigation.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
