@@ -36,10 +36,6 @@ You're sections headers will be used to reference location of destination.
 As on Package section, you may sometimes find I gave them names of Publication. This is to suggest that instead of Package as a tour company can have a publicatioUnk-1.text
 I created **Unk-1.tex**t file as draft, it should be deleted in case of no need.
 
-## References
-
-This Project referenced but not copied from [Travel & Tour](https://youtu.be/34MBVXsDOtA)
-
 ## License
 
 MIT License
