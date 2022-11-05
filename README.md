@@ -33,7 +33,7 @@ Below sections headers will be used for quick navigation.
 
 ## How To Use
 
-As on Package section, you may sometimes find I gave them names of Publication. This is to suggest that instead of Package as a tour company can have a publicatioUnk-1.text
+As on Package section, you may sometimes find I gave them names of Publication. This is to suggest that instead of Package as a tour company can have a publication.
 I created **Unk-1.tex**t file as draft, it should be deleted in case of no need.
 
 ## License
