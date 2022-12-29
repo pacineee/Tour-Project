@@ -23,8 +23,9 @@ Below sections headers will be used for quick navigation.
 
 - Html
 - CSS
+- JavaScript
 - PHP
-- MYSQL
+- MySQL
 - **N.B**: This travel project has a well functioning booking form if it doesn't work it maybe due to wrong database setup. Means it might require double checking.
 
 [Back To The Top](#Tour-Project)
