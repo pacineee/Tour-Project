@@ -1,13 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
 
 :root {
-    --main-color: #8e44ad;
-    --black: rgb(23, 101, 236);
+    --main-color: #5271FF;
+    --black: #111;
     --white: #fff;
     --light-black: #777;
-    --light-white: #fff9;
-    --dark-bg: rgba(0, 0, 0, .7);
-    --light-bg: #eee;
+    --light-white: #eee;
+    --dark-bg: #cec40d;
     --border: .1rem solid var(--black);
     --box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
     --text-shadow: 0 1.5rem 1rem rgba(0, 0, 0, .3);
@@ -72,7 +71,7 @@ section {
 
 .btn {
     display: inline-block;
-    background: var(--black);
+    background: var(--main-color);
     margin-top: 1rem;
     color: var(--white);
     font-size: 1.7rem;
@@ -80,7 +79,7 @@ section {
 }
 
 .btn:hover {
-    background: var(--main-color);
+    background: var(--dark-bg);
 }
 
 .heading-title {
@@ -144,11 +143,10 @@ section {
 
 .home .slide .content {
     width: 85rem;
-    /*This hides content*/
     display: none;
 }
 
-/*Class -active seen from inspection tools to be applied in code*/
+/*Class -active seen from inspection tools which is applied in code*/
 .home .swiper-slide-active .content {
     display: inline-block;
 }
@@ -184,13 +182,13 @@ section {
     top: 56rem;
     height: 7rem;
     width: 7rem;
-    background: var(--white);
+    background: var(--main-color);
     color: var(--black);
 }
 
 .home .swiper-button-next:hover,
 .home .swiper-button-prev:hover {
-    background: var(--main-color);
+    background: var(--dark-bg);
     color: var(--white);
 }
 
@@ -212,16 +210,19 @@ section {
 
 .home-about .image {
     flex: 1 1 41rem;
+    float: left;
 }
 
 .home-about .image image {
     width: 100%;
+    height: auto;
+    
 }
 
 .home-about .content {
     flex: 1 1 41rem;
     padding: 3rem;
-    background: var(--light-bg);
+    background: var(--light-black);
 }
 
 .home-about .content h3 {
@@ -250,7 +251,7 @@ section {
 .home-packages .box-container .box {
     border: var(--border);
     box-shadow: var(--box-shadow);
-    background: var(--light-white);
+    background: var(--dark-bg);
 }
 
 .home-packages .box-container .box .image {
@@ -344,13 +345,13 @@ section {
 .about .content .icons-container {
     margin-top: 2rem;
     display: flex;
-    flex-direction: wrap;
+    flex-direction: column;
     gap: 1.5rem;
     align-items: flex-end;
 }
 
 .about .content .icons-container .icons {
-    background: var(--light-bg);
+    background: var(--dark-bg);
     padding: 2rem;
     flex: 1 1 16rem;
 }
@@ -367,7 +368,7 @@ section {
     display: block;
 }
 
-/*Square view starts here*/
+/*Square review starts here*/
 .reviews{
     background: var(--light-bg);
 }
@@ -420,27 +421,6 @@ section {
     gap: 2rem;
 }
 
-.packages .box-container .box {
-    border: var(--border);
-    box-shadow: var(--box-shadow);
-    background: var(--light-white);
-    display: none;
-}
-
-.packages .box-container .box:nth-child(1),
-.packages .box-container .box:nth-child(2),
-.packages .box-container .box:nth-child(3),
-.packages .box-container .box:nth-child(4),
-.packages .box-container .box:nth-child(5),
-.packages .box-container .box:nth-child(6){
-    display: inline-block;
-}
-
-
-.packages .box-container .box:hover .image img {
-    transform: scale(1.1);
-}
-
 .packages .box-container .box .image {
     height: 25rem;
     overflow: hidden;
@@ -470,9 +450,8 @@ section {
     padding: 1rem 0;
 }
 
-.packages .load-more {
+.packages .learn {
     text-align: center;
-    margin-top: 2rem;
 }
 /*Above Load More issue not solved*/
 
@@ -531,12 +510,12 @@ section {
 .services .box-container .box {
     padding: 3rem 2rem;
     text-align: center;
-    background: yellow;
+    background: var(--main-color);
     cursor: pointer;
 }
 
 .services .box-container .box:hover {
-    background: var(--black);
+    background: var(--dark-bg);
 }
 
 .services .box-container .box img {

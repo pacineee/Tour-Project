@@ -18,7 +18,7 @@
 <body>
   <!--header section starts-->
   <section class="header">
-    <a href="myindex.php" class="logo">Pacine</a>
+    <a href="myindex.php" class="logo">Pacine Tour</a>
     <nav class="navbar">
       <a href="myindex.php">home</a>
       <a href="about.php">about</a>
@@ -74,7 +74,7 @@
   <!-- About section ends here -->
 
 
-<!-- Down is Reviews section -->
+  <!-- Down is Reviews section -->
   <section class="reviews">
     <div class="swiper reviews-slider">
       <div class="swiper-wrapper">
@@ -86,8 +86,10 @@
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
           </div>
-          <p>The Government of Rwanda led by the Ministry of ICT and Innovation and Rwanda Development Board are bringing Hanga Pitchfest 2022.
-            Hanga Pitchfest aims to provide a unique platform to showcase tech-entrepreneurs and creative talents from all over the country and
+          <p>The Government of Rwanda led by the Ministry of ICT and Innovation and Rwanda Development Board are
+            bringing Hanga Pitchfest 2022.
+            Hanga Pitchfest aims to provide a unique platform to showcase tech-entrepreneurs and creative talents from
+            all over the country and
             promote the use of technology and innovation in the Rwandan market.
             Above all, the event will strive to match startups to potential opportunities and investors.</p>
           <h3>Nezerwa P</h3>
@@ -102,8 +104,10 @@
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
           </div>
-          <p>The Government of Rwanda led by the Ministry of ICT and Innovation and Rwanda Development Board are bringing Hanga Pitchfest 2022.
-            Hanga Pitchfest aims to provide a unique platform to showcase tech-entrepreneurs and creative talents from all over the country and
+          <p>The Government of Rwanda led by the Ministry of ICT and Innovation and Rwanda Development Board are
+            bringing Hanga Pitchfest 2022.
+            Hanga Pitchfest aims to provide a unique platform to showcase tech-entrepreneurs and creative talents from
+            all over the country and
             promote the use of technology and innovation in the Rwandan market.
             Above all, the event will strive to match startups to potential opportunities and investors.</p>
           <h3>Nezerwa P</h3>
@@ -117,8 +121,10 @@
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
           </div>
-          <p>The Government of Rwanda led by the Ministry of ICT and Innovation and Rwanda Development Board are bringing Hanga Pitchfest 2022.
-            Hanga Pitchfest aims to provide a unique platform to showcase tech-entrepreneurs and creative talents from all over the country and
+          <p>The Government of Rwanda led by the Ministry of ICT and Innovation and Rwanda Development Board are
+            bringing Hanga Pitchfest 2022.
+            Hanga Pitchfest aims to provide a unique platform to showcase tech-entrepreneurs and creative talents from
+            all over the country and
             promote the use of technology and innovation in the Rwandan market.</p>
           <h3>Nezerwa P</h3>
           <span>Founder</span>
@@ -140,7 +146,8 @@
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
           </div>
-          <p>The Government of Rwanda led by the Ministry of ICT and Innovation and Rwanda Development Board are bringing Hanga Pitchfest 2022.
+          <p>The Government of Rwanda led by the Ministry of ICT and Innovation and Rwanda Development Board are
+            bringing Hanga Pitchfest 2022.
           </p>
           <h3>Nezerwa P</h3>
           <span>Founder</span>
@@ -152,7 +159,8 @@
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
           </div>
-          <p>The Government of Rwanda led by the Ministry of ICT and Innovation and Rwanda Development Board are bringing Hanga Pitchfest 2022.
+          <p>The Government of Rwanda led by the Ministry of ICT and Innovation and Rwanda Development Board are
+            bringing Hanga Pitchfest 2022.
           </p>
           <h3>Nezerwa P</h3>
           <span>Founder</span>
@@ -203,7 +211,8 @@
 
     </div>
 
-    <div class="credit">Developed by <span><a href="#pacine">Pacine</a></span> | All rights reserved...!</div>
+    <div class="credit"> <span>Copyright - <?php echo date('Y') ?> </span> | Developed by <span><a
+          href="https://github.com/pacineee">Pacine</a></span> | All rights reserved...!</div>
 
   </section>
   <!-- Footer section ends -->

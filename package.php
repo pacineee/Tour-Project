@@ -18,7 +18,7 @@
 <body>
   <!--header section starts-->
   <section class="header">
-    <a href="myindex.php" class="logo">Pacine</a>
+    <a href="myindex.php" class="logo">Pacine Tour</a>
     <nav class="navbar">
       <a href="myindex.php">home</a>
       <a href="about.php">about</a>
@@ -219,7 +219,8 @@
 
     </div>
 
-    <div class="credit">Developed by <span><a href="#pacine">Pacine</a></span> | All rights reserved...!</div>
+    <div class="credit"> <span>Copyright - <?php echo date('Y') ?> </span> | Developed by <span><a
+          href="https://github.com/pacineee">Pacine</a></span> | All rights reserved...!</div>
 
   </section>
   <!-- Footer section ends -->
