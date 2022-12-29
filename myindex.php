@@ -18,11 +18,11 @@
 <body>
   <!--header section starts-->
   <section class="header">
-    <a href="myindex.php" class="logo">Pacine</a>
+    <a href="myindex.php" class="logo">Pacine Tour</a>
     <nav class="navbar">
       <a href="myindex.php">home</a>
       <a href="about.php">about</a>
-      <a href="package.php">publications</a>
+      <a href="package.php">packages</a>
       <a href="book.php">book</a>
     </nav>
 
@@ -40,7 +40,7 @@
     <div class="swiper home-slider">
       <div class="swiper-wrapper">
 
-        <div class="swiper-slide slide" style="background:url(images/green-fields-with-wild-trees-2210x1473.jpg) no-repeat">
+        <div class="swiper-slide slide" style="background:url(images/mountain-gorilla.webp) no-repeat">
           <div class="content">
             <span>Explore, discover, travel</span>
             <h3>Travel around Rwanda</h3>
@@ -86,29 +86,34 @@
   <!-- Home About section starts here -->
   <section class="home-about">
     <div class="image">
-      <img src="images/1664618770628.png" alt="Ooops...smashed">
+      <img src="images/Tribal-dancers_-Rwanda-988163-500px.jpg" alt="Ooops...smashed">
     </div>
     <div class="content">
       <h3>About Us</h3>
       <p>
-        Using media queries are a popular technique for delivering a tailored style sheet
-        (responsive web design) to desktops, laptops, tablets, and mobile phones.<br>
-        You can also use media queries to specify that certain styles are only for printed documents or
-        for screen readers (mediatype: print, screen, or speech).<br>
-        In addition to media types, there are also media features. Media features provide more specific details to media queries,
-        by allowing to test for a specific feature of the user agent or display device.<br>
-        For example, you can apply styles to only those screens that are greater, or smaller, than a certain width.
+        Known as the land of a thousand hills, Rwanda's stunning scenery and warm,
+        friendly people offer unique experiences in one of the most remarkable countries in the world.
+        It is blessed with extraordinary biodiversity,
+        with incredible wildlife living throughout its volcanoes, montane rainforest and sweeping plains.<br>
+
+        With Rwanda recognised as one of the safest countries in Africa for solo travellers,
+        it's still worth noting some things to be considerate of while there.
+        Rwanda's direct neighbours have experienced a lot of instability that sometimes spills over the borders.<br><br>
+        Joining hands with Pacine Tour and Safari you're being guaranted to explore the beautiful country as you wish.
+        You will be getting to the peek of all joy in a country of thousand hills.<br>
+        Pacine Tour we have best and experienced men and women to help you in all the exploring activities.
+        We have best Tavel (Safari) Vehicles to get you to and from Beast hotels as well other amazing destinations in
+        Rwanda.
       </p>
       <a href="about.php" class="btn">Read More</a>
     </div>
   </section>
-
   <!-- Home About section ends here -->
 
 
   <!-- Home Package section starts here -->
 
-  <section class="home-packages">
+  <section class="home packages">
     <h1 class="heading-title">Our packages</h1>
     <div class="box-container">
 
@@ -146,7 +151,7 @@
       </div>
 
     </div>
-    <div class="load-more"><a href="package.php" class="btn">Learn more</a></div>
+    <div class="learn"><a href="package.php" class="btn">Learn more</a></div>
 
 
   </section>
@@ -246,7 +251,8 @@
 
     </div>
 
-    <div class="credit">Developed by <span><a href="#pacine">Pacine</a></span> | All rights reserved...!</div>
+    <div class="credit"> <span>Copyright - <?php echo date('Y') ?> </span> | Developed by <span><a
+          href="https://github.com/pacineee">Pacine</a></span> | All rights reserved...!</div>
 
   </section>
   <!-- Footer section ends -->
@@ -255,15 +261,8 @@
   <!--Swipper js file link-->
   <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
 
-
-  <!-- Swiper JS 
-<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
--->
-
-
   <!-- Custom JS file link -->
   <script src="js/script.js"></script>
 </body>
-
 
 </html>
