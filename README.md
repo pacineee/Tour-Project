@@ -1,8 +1,8 @@
 # Tour Project
 
-> This is a ReadMe template to help save you time and effort.
-
+> This is a Travel website project
 ---
+![2022-12-29 13_47_17-Pacine Tour](https://user-images.githubusercontent.com/82188274/209947033-82b09278-428f-48dd-a7c1-42f9a6a5fe10.png)
 
 ### Table of Contents
 Below sections headers will be used for quick navigation.
@@ -25,7 +25,7 @@ Below sections headers will be used for quick navigation.
 - CSS
 - PHP
 - MYSQL
-- **N.B**: On Github you may notice that I used that 67.7%  I used **Hack** language however, I used **Html**. The reason for this is because Html inside **.php** file is taken as Hack when there isn't presence of Php code. 
+- **N.B**: This travel project has a well functioning booking form if it doesn't work it maybe due to wrong database setup. Means it might require double checking.
 
 [Back To The Top](#Tour-Project)
 
