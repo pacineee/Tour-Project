@@ -16,8 +16,10 @@ Below sections headers will be used for quick navigation.
 ---
 
 ## Description
+I try to show case the beauty of Rwanda as one of developed countries in tourism section.
+This project contains information about Rwanda and should not be taken for commercial purpose.
 
-
+Thanks in advance for the one who can contribute to this project!
 
 #### Technologies
 
@@ -32,11 +34,6 @@ Below sections headers will be used for quick navigation.
 
 ---
 
-## How To Use
-
-As on Package section, you may sometimes find I gave them names of Publication. This is to suggest that instead of Package as a tour company can have a publication.
-I created **Unk-1.tex**t file as draft, it should be deleted in case of no need.
-
 ## License
 
 MIT License
@@ -44,7 +41,7 @@ MIT License
 Copyright (c) [2022] [Pacifique Nezerwa]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
+of this project and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
