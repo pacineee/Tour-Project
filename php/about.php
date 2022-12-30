@@ -12,15 +12,15 @@
   <!--Font awesome cdn link-->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
   <!--Custom (mine) css file link-->
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="../css/style.css">
 </head>
 
 <body>
   <!--header section starts-->
   <section class="header">
-    <a href="myindex.php" class="logo">Pacine Tour</a>
+  <a href="../myindex.php" class="logo">Pacine Tour</a>
     <nav class="navbar">
-      <a href="myindex.php">home</a>
+      <a href="../myindex.php">home</a>
       <a href="about.php">about</a>
       <a href="package.php">package</a>
       <a href="book.php">book</a>
@@ -32,7 +32,7 @@
 
   <!--header section ends-->
 
-  <div class="heading" style="background:url(images/green-fields-with-wild-trees-2210x1473.jpg) no-repeat">
+  <div class="heading" style="background:url(../images/kcc-photo.jpg) no-repeat">
     <h1>About</h1>
   </div>
 
@@ -221,7 +221,7 @@
   <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
 
   <!--Custom JS file link-->
-  <script src="js/script.js"></script>
+  <script src="../js/script.js"></script>
 
 </body>
 

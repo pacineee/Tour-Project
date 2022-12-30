@@ -12,15 +12,15 @@
   <!--Font awesome cdn link-->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
   <!--Custom (mine) css file link-->
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="../css/style.css">
 </head>
 
 <body>
   <!--header section starts-->
   <section class="header">
-    <a href="myindex.php" class="logo">Pacine Tour</a>
+    <a href="../myindex.php" class="logo">Pacine Tour</a>
     <nav class="navbar">
-      <a href="myindex.php">home</a>
+      <a href="../myindex.php">home</a>
       <a href="about.php">about</a>
       <a href="package.php">package</a>
       <a href="book.php">book</a>
@@ -32,8 +32,8 @@
 
   <!--header section ends-->
 
-  <div class="heading" style="background:url(images/wp4088639_1900-1200.jpg) no-repeat">
-    <h1>publications</h1>
+  <div class="heading" style="background:url(../images/green-fields-with-wild-trees-2210x1473.jpg) no-repeat">
+    <h1>packages</h1>
   </div>
 
 
@@ -41,141 +41,25 @@
   <!--Package section starts here-->
   <section class="packages">
     <h1 class="headind-title">Top destinations</h1>
-    <div class="box-container">
 
-      <div class="box">
-        <div class="image">
-          <img src="images/2022-Data-Engineering-and-Analytics-280x280.png" alt="Ooops...Smashed!">
-        </div>
-        <div class="content">
-          <h3>Advanture & Tour</h3>
-          <p>How long can you go with Movenez? By any way you should count on Us!</p>
-          <a href="book.php" class="btn">Book Now</a>
-        </div>
+    <!-- 3rd Swiper -->
+    <div class="swiper mySwiper">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">Slide 1</div>
+        <div class="swiper-slide">Slide 2</div>
+        <div class="swiper-slide">Slide 3</div>
+        <div class="swiper-slide">Slide 4</div>
+        <div class="swiper-slide">Slide 5</div>
+        <div class="swiper-slide">Slide 6</div>
+        <div class="swiper-slide">Slide 7</div>
+        <div class="swiper-slide">Slide 8</div>
+        <div class="swiper-slide">Slide 9</div>
       </div>
-
-      <div class="box">
-        <div class="image">
-          <img src="images/2022-Data-Engineering-and-Analytics-280x280.png" alt="Ooops...Smashed!">
-        </div>
-        <div class="content">
-          <h3>Advanture & Tour</h3>
-          <p>How long can you go with Movenez? By any way you should count on Us!</p>
-          <a href="book.php" class="btn">Book Now</a>
-        </div>
-      </div>
-
-      <div class="box">
-        <div class="image">
-          <img src="images/2022-Data-Engineering-and-Analytics-280x280.png" alt="Ooops...Smashed!">
-        </div>
-        <div class="content">
-          <h3>Advanture & Tour</h3>
-          <p>How long can you go with Movenez? By any way you should count on Us!</p>
-          <a href="book.php" class="btn">Book Now</a>
-        </div>
-      </div>
-
-      <div class="box">
-        <div class="image">
-          <img src="images/2022-Data-Engineering-and-Analytics-280x280.png" alt="Ooops...Smashed!">
-        </div>
-        <div class="content">
-          <h3>Advanture & Tour</h3>
-          <p>How long can you go with Movenez? By any way you should count on Us!</p>
-          <a href="book.php" class="btn">Book Now</a>
-        </div>
-      </div>
-
-      <div class="box">
-        <div class="image">
-          <img src="images/2022-Data-Engineering-and-Analytics-280x280.png" alt="Ooops...Smashed!">
-        </div>
-        <div class="content">
-          <h3>Advanture & Tour</h3>
-          <p>How long can you go with Movenez? By any way you should count on Us!</p>
-          <a href="book.php" class="btn">Book Now</a>
-        </div>
-      </div>
-
-      <div class="box">
-        <div class="image">
-          <img src="" alt="Ooops...Smashed!">
-        </div>
-        <div class="content">
-          <h3>Advanture & Tour</h3>
-          <p>How long can you go with Movenez? By any way you should count on Us!</p>
-          <a href="book.php" class="btn">Book Now</a>
-        </div>
-      </div>
-
-      <div class="box">
-        <div class="image">
-          <img src="images/2022-Data-Engineering-and-Analytics-280x280.png" alt="Ooops...Smashed!">
-        </div>
-        <div class="content">
-          <h3>Advanture & Tour</h3>
-          <p>How long can you go with Movenez? By any way you should count on Us!</p>
-          <a href="book.php" class="btn">Book Now</a>
-        </div>
-      </div>
-
-      <div class="box">
-        <div class="image">
-          <img src="images/2022-Data-Engineering-and-Analytics-280x280.png" alt="Ooops...Smashed!">
-        </div>
-        <div class="content">
-          <h3>Advanture & Tour</h3>
-          <p>How long can you go with Movenez? By any way you should count on Us!</p>
-          <a href="book.php" class="btn">Book Now</a>
-        </div>
-      </div>
-
-      <div class="box">
-        <div class="image">
-          <img src="images/2022-Data-Engineering-and-Analytics-280x280.png" alt="Ooops...Smashed!">
-        </div>
-        <div class="content">
-          <h3>Advanture & Tour</h3>
-          <p>How long can you go with Movenez? By any way you should count on Us!</p>
-          <a href="book.php" class="btn">Book Now</a>
-        </div>
-      </div>
-
-      <div class="box">
-        <div class="image">
-          <img src="images/2022-Data-Engineering-and-Analytics-280x280.png" alt="Ooops...Smashed!">
-        </div>
-        <div class="content">
-          <h3>Advanture & Tour</h3>
-          <p>How long can you go with Movenez? By any way you should count on Us!</p>
-          <a href="book.php" class="btn">Book Now</a>
-        </div>
-      </div>
-
-      <div class="box">
-        <div class="image">
-          <img src="images/2022-Data-Engineering-and-Analytics-280x280.png" alt="Ooops...Smashed!">
-        </div>
-        <div class="content">
-          <h3>Advanture & Tour</h3>
-          <p>How long can you go with Movenez? By any way you should count on Us!</p>
-          <a href="book.php" class="btn">Book Now</a>
-        </div>
-      </div>
-
-      <div class="box">
-        <div class="image">
-          <img src="images/2022-Data-Engineering-and-Analytics-280x280.png" alt="Ooops...Smashed!">
-        </div>
-        <div class="content">
-          <h3>Advanture & Tour</h3>
-          <p>How long can you go with Movenez? By any way you should count on Us!</p>
-          <a href="book.php" class="btn">Book Now</a>
-        </div>
-      </div>
-
+      <div class="swiper-button-next"></div>
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-pagination"></div>
     </div>
+
     <div class="load-more"><span class="btn">Load More</span></div>
   </section>
   <!--Package section starts here-->
@@ -229,7 +113,7 @@
   <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
 
   <!--Custom JS file link-->
-  <script src="script.js"></script>
+  <script src="../js/script.js"></script>
 </body>
 
 </html>

@@ -21,9 +21,9 @@
     <a href="myindex.php" class="logo">Pacine Tour</a>
     <nav class="navbar">
       <a href="myindex.php">home</a>
-      <a href="about.php">about</a>
-      <a href="package.php">packages</a>
-      <a href="book.php">book</a>
+      <a href="php/about.php">about</a>
+      <a href="php/package.php">packages</a>
+      <a href="php/book.php">book</a>
     </nav>
 
     <div id="menu-btn" class="fas fa-bars"></div>
@@ -52,7 +52,7 @@
           <div class="content">
             <span>Explore, discover, travel</span>
             <h3>Discover new Amazing Rwandan Places</h3>
-            <a href="package.php" class="btn">Discover more </a>
+            <a href="php/package.php" class="btn">Discover more </a>
           </div>
         </div>
 
@@ -60,7 +60,7 @@
           <div class="content">
             <span>Explore, discover, travel</span>
             <h3>Make your Life count</h3>
-            <a href="package.php" class="btn">Discover more </a>
+            <a href="php/package.php" class="btn">Discover more </a>
           </div>
         </div>
 
@@ -68,7 +68,7 @@
           <div class="content">
             <span>Explore, discover, travel</span>
             <h3>Make your Life count</h3>
-            <a href="package.php" class="btn">Discover more </a>
+            <a href="php/package.php" class="btn">Discover more </a>
           </div>
         </div>
       </div>
@@ -105,7 +105,7 @@
         We have best Tavel (Safari) Vehicles to get you to and from Beast hotels as well other amazing destinations in
         Rwanda.
       </p>
-      <a href="about.php" class="btn">Read More</a>
+      <a href="php/about.php" class="btn">Read More</a>
     </div>
   </section>
   <!-- Home About section ends here -->
@@ -122,20 +122,21 @@
         <div class="swiper-slide image-box">
           <img src="images/Volcano-national-park-18.jpg" />
           <div class="content">
-            <h3>Adventure & Tour</h3>
+            <h3>Tour - Virunga National Park</h3>
             <p>In the heart of Central Africa, so high up that you shiver more than you sweat,” wrote the eminent
               primatologist Dian Fossey, “are great, old volcanoes towering almost 15,000 feet, and nearly covered with
               rich, green rainforest - the Virungas.”</p>
-            <a href="book.php" class="btn">Book now</a>
+            <a href="php/book.php" class="btn">Book now</a>
           </div>
         </div>
 
         <div class="swiper-slide image">
-          <img src="https://swiperjs.com/demos/images/nature-2.jpg" />
+          <img src="images/Filming-in-Akagera-National-Park.jpg" />
           <div class="content">
-            <h3>Adventure & Tour</h3>
-            <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
-            <a href="book.php" class="btn">Book now</a>
+            <h3>Tour-AKagera National Park</h3>
+            <p>Along with wildlife conservation and community engagement, tourism holds the key to unlocking economic
+              benefits needed for a brighter future for those living within and around Akagera's border region.</p>
+            <a href="php/book.php" class="btn">Book now</a>
           </div>
         </div>
 
@@ -144,7 +145,7 @@
           <div class="content">
             <h3>Adventure & Tour</h3>
             <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
-            <a href="book.php" class="btn">Book now</a>
+            <a href="php/book.php" class="btn">Book now</a>
           </div>
         </div>
 
@@ -153,7 +154,7 @@
           <div class="content">
             <h3>Adventure & Tour</h3>
             <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
-            <a href="book.php" class="btn">Book now</a>
+            <a href="php/book.php" class="btn">Book now</a>
           </div>
         </div>
 
@@ -162,7 +163,7 @@
           <div class="content">
             <h3>Adventure & Tour</h3>
             <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
-            <a href="book.php" class="btn">Book now</a>
+            <a href="php/book.php" class="btn">Book now</a>
           </div>
         </div>
 
@@ -173,7 +174,7 @@
             <p>“In the heart of Central Africa, so high up that you shiver more than you sweat,” wrote the eminent
               primatologist Dian Fossey, “are great, old volcanoes towering almost 15,000 feet, and nearly covered with
               rich, green rainforest - the Virungas.”</p>
-            <a href="book.php" class="btn">Book now</a>
+            <a href="php/book.php" class="btn">Book now</a>
           </div>
         </div>
 
@@ -182,7 +183,7 @@
           <div class="content">
             <h3>Adventure & Tour</h3>
             <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
-            <a href="book.php" class="btn">Book now</a>
+            <a href="php/book.php" class="btn">Book now</a>
           </div>
         </div>
 
@@ -191,7 +192,7 @@
           <div class="content">
             <h3>Adventure & Tour</h3>
             <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
-            <a href="book.php" class="btn">Book now</a>
+            <a href="php/book.php" class="btn">Book now</a>
           </div>
         </div>
 
@@ -214,7 +215,7 @@
       <p>Mission statement:
         Being an environment to produce experienced community winners and a hub of various solutions.
       </p>
-      <a href="book.php" class="btn">Book now</a>
+      <a href="php/book.php" class="btn">Book now</a>
     </div>
   </section>
   <!-- Home Offer section ends here -->
@@ -268,9 +269,9 @@
       <div class="box">
         <h3>Quick Links</h3>
         <a href="myindex.php"><i class="fas fa-angle-right"></i> home</a>
-        <a href="about.php"><i class="fas fa-angle-right"></i> about</a>
-        <a href="package.php"><i class="fas fa-angle-right"></i> publications</a>
-        <a href="book.php"><i class="fas fa-angle-right"></i> book</a>
+        <a href="php/about.php"><i class="fas fa-angle-right"></i> about</a>
+        <a href="php/package.php"><i class="fas fa-angle-right"></i> publications</a>
+        <a href="php/book.php"><i class="fas fa-angle-right"></i> book</a>
       </div>
 
       <div class="box">

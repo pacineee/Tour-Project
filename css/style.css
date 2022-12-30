@@ -216,7 +216,7 @@ section {
 .home-about .image image {
     width: 100%;
     height: auto;
-    
+
 }
 
 .home-about .content {
@@ -240,42 +240,45 @@ section {
 
 
 
-/*Home packages styling*/
+/*Home-packages styling*/
+.home-packages {
+    text-align: center;
+}
+
 .swiper {
     width: 100%;
     padding-top: 10px;
     padding-bottom: 100px;
-  }
+}
 
-  .swiper-slide {
+.swiper-slide {
     background-position: center;
     background-size: cover;
     width: 380px;
     height: 380px;
-  }
+}
 
-  .swiper-slide img {
-    display: block;
-    width: 100%;
-    height:100%;
-  }
-
-  .package-swiper .image-box{
+.package-swiper .image-box {
     padding-bottom: 12rem;
-  }
+}
 
-  .image-box .content{
-    text-align: center;
-  }
-  .image-box .content h3{
+.swiper-slide {
+    display: block;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.image-box .content h3 {
     font-size: 2.2rem;
-  }
-  .image-box .content p{
+}
+
+.image-box .content p {
     font-size: 1.4rem;
-  }
-  .home-packages .learn{
-    text-align: center;
-  }
+}
+
 
 
 
@@ -369,64 +372,75 @@ section {
 
 
 /*Square review starts here*/
-.reviews{
+.reviews {
     background: var(--light-bg);
 }
-.reviews .slide{
+
+.reviews .slide {
     padding: 2rem;
     border: var(--border);
     background: var(--white);
     text-align: center;
     box-shadow: var(--box-shadow);
 }
-.reviews .slide .stars{
+
+.reviews .slide .stars {
     padding-bottom: 0.5rem;
 }
-.reviews .slide .stars i{
+
+.reviews .slide .stars i {
     font-size: 1.5rem;
     color: var(--main-color);
 }
-.reviews .slide p{
+
+.reviews .slide p {
     font-size: 1.5rem;
     color: var(--light-black);
     line-height: 2;
     padding: 1rem 0;
     user-select: none;
 }
-.reviews .slide h3{
+
+.reviews .slide h3 {
     font-size: 2rem;
     color: var(--black);
 }
-.reviews .slide span{
+
+.reviews .slide span {
     font-size: 1.5rem;
     color: var(--main-color);
     display: block;
 }
-.reviews .slide img{
+
+.reviews .slide img {
     height: 7rem;
     width: 7rem;
     border-radius: 50%;
     margin-top: 1rem;
 }
+
 /*Square view ends here*/
 
 
 
 
 /*Below is Booking form*/
-.booking .booking-form{
+.booking .booking-form {
     padding: 2rem;
     background: var(--light-bg);
 }
-.booking .booking-form .flex{
+
+.booking .booking-form .flex {
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
 }
-.booking .booking-form .flex .input-box{
+
+.booking .booking-form .flex .input-box {
     flex: 1 1 41rem;
 }
-.booking .booking-form .flex .input-box input{
+
+.booking .booking-form .flex .input-box input {
     width: 100%;
     padding-top: 1.2rem;
     padding-left: .5rem;
@@ -437,17 +451,21 @@ section {
     border: var(--border);
     box-shadow: var(--box-shadow);
 }
-.booking .booking-form .flex .input-box input:focus{
+
+.booking .booking-form .flex .input-box input:focus {
     background: var(--black);
     color: var(--white);
 }
-.booking .booking-form .flex .input-box span{
+
+.booking .booking-form .flex .input-box span {
     font-size: 1.7rem;
     color: var(--light-black);
 }
-.booking .booking-form .btn{
+
+.booking .booking-form .btn {
     margin-top: 2rem;
 }
+
 /*Above is Booking form*/
 
 
@@ -486,9 +504,52 @@ section {
 
 
 
+/* Styling package tab  starts here*/
+.packages .swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .packages .swiper .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+/* Styling package tab  ends here*/
+
+
+
+
+
+
+
+
+
+
 /*Below is the footer section stylying*/
 .footer {
-    background: url(../images/Web-Background.jpg) no-repeat;
+    background: url(../images/21-Awesome-Field-Landscape-Background.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
