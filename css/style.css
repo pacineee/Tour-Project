@@ -237,58 +237,51 @@ section {
     line-height: 2;
 }
 
+
+
+
 /*Home packages styling*/
-.home-packages {
-    background: var(--light-bg);
-}
-
-.home-packages .box-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
-    gap: 2rem;
-}
-
-.home-packages .box-container .box {
-    border: var(--border);
-    box-shadow: var(--box-shadow);
-    background: var(--dark-bg);
-}
-
-.home-packages .box-container .box .image {
-    height: 28rem;
-    overflow: hidden;
-}
-
-.home-packages .box-container .box .image img {
-    height: 100%;
+.swiper {
     width: 100%;
-    object-fit: cover;
-    transition: .2s linear;
-}
+    padding-top: 10px;
+    padding-bottom: 100px;
+  }
 
-.home-packages .box-container .box .content {
-    padding: 2rem;
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 380px;
+    height: 380px;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height:100%;
+  }
+
+  .package-swiper .image-box{
+    padding-bottom: 12rem;
+  }
+
+  .image-box .content{
     text-align: center;
-}
-
-.home-packages .box-container .box .content h3 {
-    font-size: 2.5rem;
-    color: var(--black);
-}
-
-.home-packages .box-container .box .content p {
-    font-size: 2.5rem;
-    color: var(--ligh-black);
-    line-height: 2;
-    padding: 1rem 0;
-}
-
-.home-packages .load-more {
+  }
+  .image-box .content h3{
+    font-size: 2.2rem;
+  }
+  .image-box .content p{
+    font-size: 1.4rem;
+  }
+  .home-packages .learn{
     text-align: center;
-    margin-top: 2rem;
-}
+  }
 
 
+
+
+
+/* Styling Home-offer section */
 .home-offer {
     text-align: center;
 }
@@ -310,6 +303,10 @@ section {
     padding: 1rem 0;
 }
 
+
+
+
+/* Styling Home-offer section */
 .about {
     display: flex;
     align-items: center;
@@ -368,6 +365,9 @@ section {
     display: block;
 }
 
+
+
+
 /*Square review starts here*/
 .reviews{
     background: var(--light-bg);
@@ -409,51 +409,6 @@ section {
     margin-top: 1rem;
 }
 /*Square view ends here*/
-
-
-
-
-
-/*Below Load More issue not solved*/
-.packages .box-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
-    gap: 2rem;
-}
-
-.packages .box-container .box .image {
-    height: 25rem;
-    overflow: hidden;
-}
-
-.packages .box-container .box .image img {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-    transition: .2s linear;
-}
-
-.packages .box-container .box .content {
-    padding: 2rem;
-    text-align: center;
-}
-
-.packages .box-container .box .content h3 {
-    font-size: 2.5rem;
-    color: var(--black);
-}
-
-.packages .box-container .box .content p {
-    font-size: 1.5rem;
-    color: var(--ligh-black);
-    line-height: 2;
-    padding: 1rem 0;
-}
-
-.packages .learn {
-    text-align: center;
-}
-/*Above Load More issue not solved*/
 
 
 

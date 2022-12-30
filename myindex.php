@@ -112,47 +112,95 @@
 
 
   <!-- Home Package section starts here -->
-
-  <section class="home packages">
+  <section class="home-packages">
     <h1 class="heading-title">Our packages</h1>
-    <div class="box-container">
 
-      <div class="box">
-        <div class="image">
-          <img src="images/coast-280x280.jpg" alt="Ooops...smashed">
+    <!-- 2nd Swiper -->
+    <div class="swiper mySwiper">
+      <div class="swiper-wrapper package-swiper">
+
+        <div class="swiper-slide image-box">
+          <img src="images/Volcano-national-park-18.jpg" />
+          <div class="content">
+            <h3>Adventure & Tour</h3>
+            <p>In the heart of Central Africa, so high up that you shiver more than you sweat,” wrote the eminent
+              primatologist Dian Fossey, “are great, old volcanoes towering almost 15,000 feet, and nearly covered with
+              rich, green rainforest - the Virungas.”</p>
+            <a href="book.php" class="btn">Book now</a>
+          </div>
         </div>
-        <div class="content">
-          <h3>Adventure & Tour</h3>
-          <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
-          <a href="book.php" class="btn">Book now</a>
+
+        <div class="swiper-slide image">
+          <img src="https://swiperjs.com/demos/images/nature-2.jpg" />
+          <div class="content">
+            <h3>Adventure & Tour</h3>
+            <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
+            <a href="book.php" class="btn">Book now</a>
+          </div>
         </div>
+
+        <div class="swiper-slide image">
+          <img src="https://swiperjs.com/demos/images/nature-3.jpg" />
+          <div class="content">
+            <h3>Adventure & Tour</h3>
+            <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
+            <a href="book.php" class="btn">Book now</a>
+          </div>
+        </div>
+
+        <div class="swiper-slide image">
+          <img src="https://swiperjs.com/demos/images/nature-4.jpg" />
+          <div class="content">
+            <h3>Adventure & Tour</h3>
+            <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
+            <a href="book.php" class="btn">Book now</a>
+          </div>
+        </div>
+
+        <div class="swiper-slide image">
+          <img src="https://swiperjs.com/demos/images/nature-5.jpg" />
+          <div class="content">
+            <h3>Adventure & Tour</h3>
+            <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
+            <a href="book.php" class="btn">Book now</a>
+          </div>
+        </div>
+
+        <div class="swiper-slide image">
+          <img src="https://swiperjs.com/demos/images/nature-6.jpg" />
+          <div class="content">
+            <h3>Adventure & Tour</h3>
+            <p>“In the heart of Central Africa, so high up that you shiver more than you sweat,” wrote the eminent
+              primatologist Dian Fossey, “are great, old volcanoes towering almost 15,000 feet, and nearly covered with
+              rich, green rainforest - the Virungas.”</p>
+            <a href="book.php" class="btn">Book now</a>
+          </div>
+        </div>
+
+        <div class="swiper-slide image">
+          <img src="https://swiperjs.com/demos/images/nature-7.jpg" />
+          <div class="content">
+            <h3>Adventure & Tour</h3>
+            <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
+            <a href="book.php" class="btn">Book now</a>
+          </div>
+        </div>
+
+        <div class="swiper-slide image">
+          <img src="https://swiperjs.com/demos/images/nature-8.jpg" />
+          <div class="content">
+            <h3>Adventure & Tour</h3>
+            <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
+            <a href="book.php" class="btn">Book now</a>
+          </div>
+        </div>
+
       </div>
 
-      <div class="box">
-        <div class="image">
-          <img src="images/coast-280x280.jpg" alt="Ooops...smashed">
-        </div>
-        <div class="content">
-          <h3>Adventure & Tour</h3>
-          <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
-          <a href="book.php" class="btn">Book now</a>
-        </div>
-      </div>
-
-      <div class="box">
-        <div class="image">
-          <img src="images/coast-280x280.jpg" alt="Ooops...smashed">
-        </div>
-        <div class="content">
-          <h3>Adventure & Tour</h3>
-          <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
-          <a href="book.php" class="btn">Book now</a>
-        </div>
-      </div>
-
+      <div class="swiper-pagination"></div>
     </div>
-    <div class="learn"><a href="package.php" class="btn">Learn more</a></div>
 
+    <div class="learn"><a href="package.php" class="btn">Learn more</a></div>
 
   </section>
   <!-- Home Package section ends here -->
