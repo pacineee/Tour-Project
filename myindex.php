@@ -56,7 +56,7 @@
           </div>
         </div>
 
-        <div class="swiper-slide slide" style="background:url(images/wp4088639_1900-1200.jpg) no-repeat">
+        <div class="swiper-slide slide" style="background:url(images/kigali_caption.jpg) no-repeat">
           <div class="content">
             <span>Explore, discover, travel</span>
             <h3>Make your Life count</h3>
@@ -65,7 +65,7 @@
         </div>
 
 
-        <div class="swiper-slide slide" style="background:url(images/wp4088639_1900-1200.jpg) no-repeat">
+        <div class="swiper-slide slide" style="background:url(images/view-of-kigali-business-center-in-october-2020.webp) no-repeat">
           <div class="content">
             <span>Explore, discover, travel</span>
             <h3>Make your Life count</h3>
