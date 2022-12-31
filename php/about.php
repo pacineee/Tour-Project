@@ -39,102 +39,98 @@
 
 
   <!--Main-About section starts here -->
-  <!-- Swiper -->
-  <div class="swiper about-slider">
-    <div class="swiper-wrapper">
-      <div class="swiper-slide">
-        <h2>Our Amazing story</h2>
-        <p>
-          Known As The Land Of A Thousand Hills, Rwanda's Stunning Scenery And Warm, Friendly People Offer Unique
-          Experiences In One Of The Most Remarkable Countries In The World. It Is Blessed With Extraordinary
-          Biodiversity, With Incredible Wildlife Living Throughout Its Volcanoes, Montane Rainforest And Sweeping
-          Plains.
-          With Rwanda Recognised As One Of The Safest Countries In Africa For Solo Travellers, It's Still Worth Noting
-          Some Things To Be Considerate Of While There. Rwanda's Direct Neighbours Have Experienced A Lot Of Instability
-          That Sometimes Spills Over The Borders.
+  <div class="about-content">
 
-          Joining Hands With Pacine Tour And Safari You're Being Guaranted To Explore The Beautiful Country As You Wish.
-          You Will Be Getting To The Peek Of All Joy In A Country Of Thousand Hills.
-          Pacine Tour We Have Best And Experienced Men And Women To Help You In All The Exploring Activities. We Have
-          Best Tavel (Safari) Vehicles To Get You To And From Beast Hotels As Well Other Amazing Destinations In Rwanda.
-        </p>
-        <p>
-          Rwanda is a modern nation with a fast- growing economy. It is ranked the third most competitive country in
-          Africa by the World Economic Forum 2016 Competitiveness Report, and is rated one of the cleanest and safest
-          countries in Africa.
+    <h2>Our Amazing story</h2>
+    <p>
+      Known As The Land Of A Thousand Hills, Rwanda's Stunning Scenery And Warm, Friendly People Offer Unique
+      Experiences In One Of The Most Remarkable Countries In The World. It Is Blessed With Extraordinary
+      Biodiversity, With Incredible Wildlife Living Throughout Its Volcanoes, Montane Rainforest And Sweeping
+      Plains.
+      With Rwanda Recognised As One Of The Safest Countries In Africa For Solo Travellers, It's Still Worth Noting
+      Some Things To Be Considerate Of While There. Rwanda's Direct Neighbours Have Experienced A Lot Of Instability
+      That Sometimes Spills Over The Borders.
 
-        </p>
-        <p>
-          Kigali is within easy reach of our rich offering of cultural and natural treasures. Take advantage of a range
-          of experiences in discovering Rwanda - venture into our national parks to track the endangered mountain
-          gorilla on the slopes of the Virunga Volcanoes, enjoy a 'Big 5' safari in Akagera, rated amongst the most
-          scenic national parks in Africa, or learn about the rich biodiversity in Nyungwe, the largest protected
-          mountain rainforest in Africa. The Cultural Heritage Corridor, community tours, tea and coffee plantations,
-          adventure experiences and the shores of Lake Kivu await you.
-        </p>
-        <p>
-          The unique opportunity to see gorillas in their natural habitat is unforgettable, some even say life-changing.
-          Encounters with gorillas as they go about their daily lives are carefully managed, with expert trackers and
-          guides leading small groups of tourists up bamboo-covered slopes to spend a precious and awe-inspiring hour
-          just a few feet away from the gentle creatures. The largest living primate, gorillas are spread across much of
-          the equatorial African rainforest. Broadly speaking, the species is split into lowland gorillas and mountain
-          gorillas.
-        </p>
-        <p>
-          The people of Rwanda embrace peace and reconciliation. They are committed to fight the ideology of genocide.
-          The memorials found throughout the country are moving testimonies in memory of the 1994 Genocide against the
-          Tutsi and the people who lost their lives.
+      Joining Hands With Pacine Tour And Safari You're Being Guaranted To Explore The Beautiful Country As You Wish.
+      You Will Be Getting To The Peek Of All Joy In A Country Of Thousand Hills.
+      Pacine Tour We Have Best And Experienced Men And Women To Help You In All The Exploring Activities. We Have
+      Best Tavel (Safari) Vehicles To Get You To And From Beast Hotels As Well Other Amazing Destinations In Rwanda.
+    </p><br>
+    <p>
+      Rwanda is a modern nation with a fast- growing economy. It is ranked the third most competitive country in
+      Africa by the World Economic Forum 2016 Competitiveness Report, and is rated one of the cleanest and safest
+      countries in Africa.
 
-          Inaugurated on the 10th anniversary of the Rwandan genocide, the Kigali Genocide Memorial at Gisozi is where
-          250,000 victims have been buried.
-        </p>
-        <p>
-          Situated in the far northwest of Rwanda, Volcanoes National Park protects the steep slopes of this magnificent
-          mountain range - home of the endangered mountain gorilla and a rich mosaic of montane ecosystems, which
-          embrace evergreen and bamboo forest, open grassland, swamp and heath.
-          Volcanoes National Park is named after the chain of dormant volcanoes making up the Virunga Massif: Karisimbi
-          - the highest at 4,507m, Bisoke with its verdant crater lake, Sabinyo, Gahinga and Muhabura.
-        </p>
-        <p>
-          Suspendisse rhoncus fringilla nisl. Mauris eget lorem ac urna
-          consectetur convallis non vel mi. Donec libero dolor, volutpat ut
-          urna sit amet, aliquet molestie purus. Phasellus faucibus, leo vel
-          scelerisque lobortis, ipsum leo sollicitudin metus, eget sagittis
-          ante orci eu ipsum. Nulla ac mauris eu risus sagittis scelerisque
-          iaculis bibendum mauris. Cras ut egestas orci. Cras odio risus,
-          sagittis ut nunc vitae, aliquam consectetur purus. Vivamus ornare
-          nunc vel tellus facilisis, quis dictum elit tincidunt. Donec
-          accumsan nisi at laoreet sodales. Cras at ullamcorper massa.
-          Maecenas at facilisis ex. Nam mollis dignissim purus id efficitur.
-        </p>
-        <p>
-          Curabitur eget aliquam erat. Curabitur a neque vitae purus volutpat
-          elementum. Vivamus quis vestibulum leo, efficitur ullamcorper velit.
-          Integer tincidunt finibus metus vel porta. Mauris sed mauris congue,
-          pretium est nec, malesuada purus. Nulla hendrerit consectetur arcu
-          et lacinia. Suspendisse augue justo, convallis eget arcu in, pretium
-          tempor ligula. Nullam vulputate tincidunt est ut ullamcorper.
-        </p>
-        <p>
-          Curabitur sed sodales leo. Nulla facilisi. Etiam condimentum, nisi
-          id tempor vulputate, nisi justo cursus justo, pellentesque
-          condimentum diam arcu sit amet leo. Cum sociis natoque penatibus et
-          magnis dis parturient montes, nascetur ridiculus mus. In placerat
-          tellus a posuere vehicula. Donec diam massa, efficitur vitae mattis
-          et, pretium in augue. Fusce iaculis mi quis ante venenatis, sit amet
-          pellentesque orci aliquam. Vestibulum elementum posuere vehicula.
-        </p>
-        <p>
-          A celebration of Rwandan creativity and nature. Among events held each year includes the Kwita Izina Gorilla
-          Naming Ceremony held at the Volcanoes National Park where new baby gorillas are named for purpose of
-          conservation, the Kigali Up festival which brings together music from across the world to Kigali, and the
-          Rwanda Film Festival that showcases films from Rwanda, Africa and Across the world.
-          Rwanda invites you to the land of a thousand hills and a million smiles.
-        </p>
-      </div>
-    </div>
-    <div class="swiper-scrollbar"></div>
+    </p><br>
+    <p>
+      Kigali is within easy reach of our rich offering of cultural and natural treasures. Take advantage of a range
+      of experiences in discovering Rwanda - venture into our national parks to track the endangered mountain
+      gorilla on the slopes of the Virunga Volcanoes, enjoy a 'Big 5' safari in Akagera, rated amongst the most
+      scenic national parks in Africa, or learn about the rich biodiversity in Nyungwe, the largest protected
+      mountain rainforest in Africa. The Cultural Heritage Corridor, community tours, tea and coffee plantations,
+      adventure experiences and the shores of Lake Kivu await you.
+    </p><br>
+    <p>
+      The unique opportunity to see gorillas in their natural habitat is unforgettable, some even say life-changing.
+      Encounters with gorillas as they go about their daily lives are carefully managed, with expert trackers and
+      guides leading small groups of tourists up bamboo-covered slopes to spend a precious and awe-inspiring hour
+      just a few feet away from the gentle creatures. The largest living primate, gorillas are spread across much of
+      the equatorial African rainforest. Broadly speaking, the species is split into lowland gorillas and mountain
+      gorillas.
+    </p><br>
+    <p>
+      The people of Rwanda embrace peace and reconciliation. They are committed to fight the ideology of genocide.
+      The memorials found throughout the country are moving testimonies in memory of the 1994 Genocide against the
+      Tutsi and the people who lost their lives.
+
+      Inaugurated on the 10th anniversary of the Rwandan genocide, the Kigali Genocide Memorial at Gisozi is where
+      250,000 victims have been buried.
+    </p><br>
+    <p>
+      Situated in the far northwest of Rwanda, Volcanoes National Park protects the steep slopes of this magnificent
+      mountain range - home of the endangered mountain gorilla and a rich mosaic of montane ecosystems, which
+      embrace evergreen and bamboo forest, open grassland, swamp and heath.
+      Volcanoes National Park is named after the chain of dormant volcanoes making up the Virunga Massif: Karisimbi
+      - the highest at 4,507m, Bisoke with its verdant crater lake, Sabinyo, Gahinga and Muhabura.
+    </p><br>
+    <p>
+      Suspendisse rhoncus fringilla nisl. Mauris eget lorem ac urna
+      consectetur convallis non vel mi. Donec libero dolor, volutpat ut
+      urna sit amet, aliquet molestie purus. Phasellus faucibus, leo vel
+      scelerisque lobortis, ipsum leo sollicitudin metus, eget sagittis
+      ante orci eu ipsum. Nulla ac mauris eu risus sagittis scelerisque
+      iaculis bibendum mauris. Cras ut egestas orci. Cras odio risus,
+      sagittis ut nunc vitae, aliquam consectetur purus. Vivamus ornare
+      nunc vel tellus facilisis, quis dictum elit tincidunt. Donec
+      accumsan nisi at laoreet sodales. Cras at ullamcorper massa.
+      Maecenas at facilisis ex. Nam mollis dignissim purus id efficitur.
+    </p><br>
+    <p>
+      Curabitur eget aliquam erat. Curabitur a neque vitae purus volutpat
+      elementum. Vivamus quis vestibulum leo, efficitur ullamcorper velit.
+      Integer tincidunt finibus metus vel porta. Mauris sed mauris congue,
+      pretium est nec, malesuada purus. Nulla hendrerit consectetur arcu
+      et lacinia. Suspendisse augue justo, convallis eget arcu in, pretium
+      tempor ligula. Nullam vulputate tincidunt est ut ullamcorper.
+    </p><br>
+    <p>
+      Curabitur sed sodales leo. Nulla facilisi. Etiam condimentum, nisi
+      id tempor vulputate, nisi justo cursus justo, pellentesque
+      condimentum diam arcu sit amet leo. Cum sociis natoque penatibus et
+      magnis dis parturient montes, nascetur ridiculus mus. In placerat
+      tellus a posuere vehicula. Donec diam massa, efficitur vitae mattis
+      et, pretium in augue. Fusce iaculis mi quis ante venenatis, sit amet
+      pellentesque orci aliquam. Vestibulum elementum posuere vehicula.
+    </p><br>
+    <p>
+      A celebration of Rwandan creativity and nature. Among events held each year includes the Kwita Izina Gorilla
+      Naming Ceremony held at the Volcanoes National Park where new baby gorillas are named for purpose of
+      conservation, the Kigali Up festival which brings together music from across the world to Kigali, and the
+      Rwanda Film Festival that showcases films from Rwanda, Africa and Across the world.
+      Rwanda invites you to the land of a thousand hills and a million smiles.
+    </p>
   </div>
+
   <!--Main-About section starts here -->
 
 

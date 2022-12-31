@@ -370,6 +370,18 @@ img {
 
 /** Styling inside about **/
 
+.about-content {
+    padding: 8rem;
+}
+.about-content h2{
+    font-size: 24px;
+}
+.about-content p{
+    font-size: 18px;
+}
+.about-content p:hover{
+    border-left: var(--main-color) solid 1rem;
+}
 
 
 
@@ -512,11 +524,10 @@ img {
 .packages .swiper {
     width: 100%;
     height: 100%;
-  }
+}
 
-  .packages .swiper .swiper-slide {
+.packages .swiper .package-swiper {
     text-align: center;
-    font-size: 18px;
     background: #fff;
 
     /* Center slide text vertically */
@@ -532,15 +543,22 @@ img {
     -ms-flex-align: center;
     -webkit-align-items: center;
     align-items: center;
-  }
+}
 
-  .swiper-slide img {
+.package-swiper img {
     display: block;
     width: 100%;
     height: 100%;
     object-fit: cover;
-  }
+}
 
+.package-swiper h3 {
+    font-size: 18px;
+}
+
+.package-swiper p {
+    font-size: 15px;
+}
 
 
 

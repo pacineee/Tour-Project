@@ -39,11 +39,7 @@ var swiper = new Swiper(".home-package-slider", {
 });
 
 /* Scripting Package swiper */
-<<<<<<< Updated upstream
 var swiper = new Swiper(".package-slider", {
-=======
-var swiper = new Swiper(".about-slider", {
->>>>>>> Stashed changes
     slidesPerView: 3,
     spaceBetween: 30,
     slidesPerGroup: 3,
@@ -59,13 +55,4 @@ var swiper = new Swiper(".about-slider", {
     },
   });
 
-  /* Scripting About swiper */
-  var swiper = new Swiper(".about-slider", {
-    direction: "vertical",
-    slidesPerView: "auto",
-    freeMode: true,
-    scrollbar: {
-      el: ".swiper-scrollbar",
-    },
-    mousewheel: true,
-  });
+  

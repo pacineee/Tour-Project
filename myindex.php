@@ -123,7 +123,7 @@
         <div class="swiper-slide image-box">
           <img src="images/Volcano-national-park-18.jpg" />
           <div class="content">
-            <h3>Tour - Virunga National Park</h3>
+            <h3>Virunga National Park</h3>
             <p>In the heart of Central Africa, so high up that you shiver more than you sweat,” wrote the eminent
               primatologist Dian Fossey, “are great, old volcanoes towering almost 15,000 feet, and nearly covered with
               rich, green rainforest - the Virungas.”</p>
@@ -134,7 +134,7 @@
         <div class="swiper-slide image">
           <img src="images/Filming-in-Akagera-National-Park.jpg" />
           <div class="content">
-            <h3>Tour-AKagera National Park</h3>
+            <h3>AKagera National Park</h3>
             <p>Along with wildlife conservation and community engagement, tourism holds the key to unlocking economic
               benefits needed for a brighter future for those living within and around Akagera's border region.</p>
             <a href="php/book.php" class="btn">Book now</a>
@@ -142,19 +142,22 @@
         </div>
 
         <div class="swiper-slide image">
-          <img src="https://swiperjs.com/demos/images/nature-3.jpg" />
+          <img src="images/Nyungwe-Forest-National-Park.jpg" />
           <div class="content">
-            <h3>Adventure & Tour</h3>
-            <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
+            <h3>Nyungwe National Park</h3>
+            <p>One of the oldest rainforests in Africa, Nyungwe is rich in biodiversity and spectacularly beautiful. The
+              mountainous region is teaming with wildlife, including a small population of chimpanzees as well as 12
+              other species of primate, including the L'Hoest's monkey endemic to the Albertine Rift.</p>
             <a href="php/book.php" class="btn">Book now</a>
           </div>
         </div>
 
         <div class="swiper-slide image">
-          <img src="https://swiperjs.com/demos/images/nature-4.jpg" />
+          <img src="images/gishwati-forest-reserve.jpg" />
           <div class="content">
-            <h3>Adventure & Tour</h3>
-            <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
+            <h3>Gishwati Mukura National Park</h3>
+            <p>Gishwati-Mukura National Park (GMNP) expands on 35.58 km² in Rutsiro and Ngororero Districts of Western
+              Province. Its hilly landscape gives a wonderful view moments</p>
             <a href="php/book.php" class="btn">Book now</a>
           </div>
         </div>
@@ -183,7 +186,9 @@
           <img src="https://swiperjs.com/demos/images/nature-7.jpg" />
           <div class="content">
             <h3>Adventure & Tour</h3>
-            <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
+            <p>“In the heart of Central Africa, so high up that you shiver more than you sweat,” wrote the eminent
+              primatologist Dian Fossey, “are great, old volcanoes towering almost 15,000 feet, and nearly covered with
+              rich, green rainforest - the Virungas.”</p>
             <a href="php/book.php" class="btn">Book now</a>
           </div>
         </div>
