@@ -521,13 +521,15 @@ img {
 
 
 /* Styling package tab  starts here*/
+.packages{
+    text-align: center;
+}
 .packages .swiper {
     width: 100%;
     height: 100%;
 }
 
 .packages .swiper .package-swiper {
-    text-align: center;
     background: #fff;
 
     /* Center slide text vertically */

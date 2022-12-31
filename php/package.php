@@ -38,22 +38,67 @@
 
 
 
-  <!-- Package section starts here -->
+  <!-- Main Package section starts here -->
   <section class="packages">
     <h1 class="headind-title">Top destinations</h1>
 
-    <!-- 3rd Swiper -->
+    <!-- 2nd Swiper -->
     <div class="swiper package-slider">
       <div class="swiper-wrapper">
-        <div class="swiper-slide">Slide 1</div>
-        <div class="swiper-slide">Slide 2</div>
-        <div class="swiper-slide">Slide 3</div>
-        <div class="swiper-slide">Slide 4</div>
-        <div class="swiper-slide">Slide 5</div>
-        <div class="swiper-slide">Slide 6</div>
-        <div class="swiper-slide">Slide 7</div>
-        <div class="swiper-slide">Slide 8</div>
-        <div class="swiper-slide">Slide 9</div>
+        <div class="swiper-slide">
+          <img src="../images/ibwami.jpg" alt="Oops...smashed!">
+          <div class="package-content">
+            Hello Rwanda!
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <img src="../images/ibwami.jpg" alt="Oops...smashed!">
+          <div class="package-content">
+            Hello Rwanda!
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <img src="../images/ibwami.jpg" alt="Oops...smashed!">
+          <div class="package-content">
+            Hello Rwanda!
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <img src="../images/ibwami.jpg" alt="Oops...smashed!">
+          <div class="package-content">
+            Hello Rwanda!
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <img src="../images/ibwami.jpg" alt="Oops...smashed!">
+          <div class="package-content">
+            Hello Rwanda!
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <img src="../images/ibwami.jpg" alt="Oops...smashed!">
+          <div class="package-content">
+            Hello Rwanda!
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <img src="../images/ibwami.jpg" alt="Oops...smashed!">
+          <div class="package-content">
+            Hello Rwanda!
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <img src="../images/ibwami.jpg" alt="Oops...smashed!">
+          <div class="package-content">
+            Hello Rwanda!
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <img src="../images/ibwami.jpg" alt="Oops...smashed!">
+          <div class="package-content">
+            Hello Rwanda!
+          </div>
+        </div>
       </div>
       <div class="swiper-button-next"></div>
       <div class="swiper-button-prev"></div>
@@ -62,7 +107,7 @@
 
     <div class="load-more"><span class="btn">Load More</span></div>
   </section>
-  <!-- Package section ends here -->
+  <!-- Main Package section ends here -->
 
 
 
