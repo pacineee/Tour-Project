@@ -48,7 +48,7 @@
           </div>
         </div>
 
-        <div class="swiper-slide slide" style="background:url(images/forestly_3200-1800.jpg) no-repeat">
+        <div class="swiper-slide slide" style="background:url(images/lake_50675315343_b.jpg) no-repeat">
           <div class="content">
             <span>Explore, discover, travel</span>
             <h3>Discover new Amazing Rwandan Places</h3>
@@ -63,6 +63,7 @@
             <a href="php/package.php" class="btn">Discover more </a>
           </div>
         </div>
+
 
         <div class="swiper-slide slide" style="background:url(images/wp4088639_1900-1200.jpg) no-repeat">
           <div class="content">
@@ -180,15 +181,6 @@
 
         <div class="swiper-slide image">
           <img src="https://swiperjs.com/demos/images/nature-7.jpg" />
-          <div class="content">
-            <h3>Adventure & Tour</h3>
-            <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
-            <a href="php/book.php" class="btn">Book now</a>
-          </div>
-        </div>
-
-        <div class="swiper-slide image">
-          <img src="https://swiperjs.com/demos/images/nature-8.jpg" />
           <div class="content">
             <h3>Adventure & Tour</h3>
             <p>Complete Responsive Travel & Tour Website Design Using HTML - CSS - JavaScript - PHP - MySQL</p>
