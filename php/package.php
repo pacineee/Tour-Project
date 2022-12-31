@@ -38,7 +38,7 @@
 
 
 
-  <!--Package section starts here-->
+  <!-- Package section starts here -->
   <section class="packages">
     <h1 class="headind-title">Top destinations</h1>
 
@@ -62,7 +62,7 @@
 
     <div class="load-more"><span class="btn">Load More</span></div>
   </section>
-  <!--Package section starts here-->
+  <!-- Package section ends here -->
 
 
 
