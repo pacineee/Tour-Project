@@ -10,6 +10,7 @@ window.onscroll = () => {
 };
 
 
+/* Grand Home slider */
 var swiper = new Swiper(".home-slider", {
     loop: true,
     navigation: {
@@ -18,28 +19,9 @@ var swiper = new Swiper(".home-slider", {
     },
 });
 
-/*Reviews swipper maybe removed for some issues...*/
-var swiper = new Swiper(".reviews-slider", {
-    loop: true,
-    spaceBetween: 20,
-    autoHeight: true,
-    grabCursor: true,
-    breakpoints: {
-        640: {
-            slidesPerView: 1,
-        },
-        768: {
-            slidesPerView: 2,
-        },
-        1024: {
-            slidesPerView: 3,
-        },
-    },
-});
-
 
 /* Scripting Home-Package swiper */
-var swiper = new Swiper(".mySwiper", {
+var swiper = new Swiper(".home-package-slider", {
     effect: "coverflow",
     grabCursor: true,
     centeredSlides: true,
@@ -57,7 +39,7 @@ var swiper = new Swiper(".mySwiper", {
 });
 
 /* Scripting Package swiper */
-var swiper = new Swiper(".mySwiper", {
+var swiper = new Swiper(".package-slider", {
     slidesPerView: 3,
     spaceBetween: 30,
     slidesPerGroup: 3,
@@ -71,4 +53,15 @@ var swiper = new Swiper(".mySwiper", {
       nextEl: ".swiper-button-next",
       prevEl: ".swiper-button-prev",
     },
+  });
+
+  /* Scripting About swiper */
+  var swiper = new Swiper(".about-slider", {
+    direction: "vertical",
+    slidesPerView: "auto",
+    freeMode: true,
+    scrollbar: {
+      el: ".swiper-scrollbar",
+    },
+    mousewheel: true,
   });

@@ -40,7 +40,7 @@
 
   <!--Main-About section starts here -->
   <!-- Swiper -->
-  <div class="swiper mySwiper">
+  <div class="swiper about-slider">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
         <h2>Our Amazing story</h2>

@@ -368,6 +368,10 @@ img {
     display: block;
 }
 
+/** Styling inside about **/
+
+
+
 
 
 
@@ -536,12 +540,6 @@ img {
     height: 100%;
     object-fit: cover;
   }
-/* Styling package tab  ends here*/
-
-
-
-
-
 
 
 
@@ -592,6 +590,16 @@ img {
     font-size: 2rem;
     color: var(--white);
 }
+
+/** Below are styles in single files **/
+
+
+
+
+
+
+
+
 
 
 

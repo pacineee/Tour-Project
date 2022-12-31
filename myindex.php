@@ -117,7 +117,7 @@
     <h1 class="heading-title">Our packages</h1>
 
     <!-- 2nd Swiper -->
-    <div class="swiper mySwiper">
+    <div class="swiper home-package-slider">
       <div class="swiper-wrapper package-swiper">
 
         <div class="swiper-slide image-box">
