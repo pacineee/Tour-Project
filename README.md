@@ -28,7 +28,7 @@ Thanks in advance for the one who can contribute to this project!
 - JavaScript
 - PHP
 - MySQL
-- **N.B**: This travel project has a well functioning booking form if it doesn't work it maybe due to wrong database setup. Means it might require double checking.
+- **N.B**: This travel project I use pure CSS, pure JavaScript, and Pure PHP. Only Swipper JS used for some image slides.
 
 [Back To The Top](#Tour-Project)
 
@@ -39,24 +39,6 @@ Thanks in advance for the one who can contribute to this project!
 MIT License
 
 Copyright (c) [2022] [Pacifique Nezerwa]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this project and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 [Back To The Top](#Tour-Project)
 
